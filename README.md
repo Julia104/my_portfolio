@@ -1,4 +1,4 @@
-# Harison Nagisvaran - My Portfolio
+# N. Harison - My Portfolio
 
 
 ## About
