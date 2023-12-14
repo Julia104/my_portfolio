@@ -3,11 +3,11 @@
 
 ## About
 
-G'day, I am Harison! I am a postgraduate student studying Master of Technology (M.S.) degree in Enterprise Systems and Business Analytics.
+G'day, I am Harison! I am a postgraduate student studying Master of Technology (M.S.) degree in Enterprise Systems and Business Analytics at Federation University, Australia
 
  
 
-My CV in 
+My CV in (pdf
 
 <br>
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
