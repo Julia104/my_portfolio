@@ -91,7 +91,7 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - [IELTS Academic](https://drive.google.com/file/d/1bB3bBUtCeHttCQQHdLP6Om45dFgDyXYw/view?usp=sharing) (Overall Band Score 7.0 - Proficient English User (C1)) (Apr 2014)
 
 ## Contacts
-- LinkedIn: [@nktnlx](https://www.linkedin.com/in/hnv)
-- Telegram: [@nktnlx](https://t.me/HN8000)
+- LinkedIn: [@hnv](https://www.linkedin.com/in/hnv)
+- Telegram: [@HN8000](https://t.me/HN8000)
 - Instagram: [@fx_hn](https://www.instagram.com/fx.hn/)
 - E-mail: hnaud01@gmail.com
