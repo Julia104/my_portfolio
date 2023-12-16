@@ -5,14 +5,13 @@
 
 G'day, I am Harison! I am a postgraduate student studying Master of Technology (M.S.) degree in Enterprise Systems and Business Analytics at Federation University, Australia
 
- 
+ Technology stack: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 My CV (https://github.com/Julia104/portfolioproj/blob/main/CV.pdf)
 
 <br>
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
 <br>
-  
 
 ## Table of contents
 - [About](#about)
