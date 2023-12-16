@@ -7,7 +7,6 @@ G'day, I am Harison :smile:
 I am a current postgraduate student studying Master of Technology (M.S.) degree in Enterprise Systems and Business Analytics at Federation University, Australia.
 
 
-
 My CV (https://github.com/Julia104/portfolioproj/blob/main/CV.pdf)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -58,7 +57,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** This is a dataset of helicopter prison breaks from Wikipedia.The project includes the following steps: data loading, data cleaning and preprocessing and visualization using matplotlib library. 
 **Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.  
 **Technology:** Python, Pandas, ,helper, Matplotlib.  
-**Results:** To determine a) In which year did the most helicopter prison break attempts occur? b)In which countries do the most attempted helicopter prison escapes occur? c)In which countries do helicopter prison breaks have a higher chance of success?
+**Results:** Using Python libraries helper,pandas and matplotlib, I determined a) In which year did the most helicopter prison break attempts occur? b)In which countries do the most attempted helicopter prison escapes occur? c)In which countries do helicopter prison breaks have a higher chance of success?
 
 
 
