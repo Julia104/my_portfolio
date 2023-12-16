@@ -25,7 +25,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [[Wikipedia Helicopter Prison Break](#Wikipedia Helicopter Prison Break )](https://github.com/Julia104/my_portfolio/tree/main)
+	+ [Wikipedia Helicopter Prison Break](#https://github.com/Julia104/my_portfolio/tree/main)
 	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
 	+ [A Landing Page Design Experiment](#a-landing-page-design-experiment)
 	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
