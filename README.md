@@ -3,7 +3,7 @@
 
 ## About
 
-G'day, I am Harison :) I am a current postgraduate student studying Master of Technology (M.S.) degree in Enterprise Systems and Business Analytics at Federation University, Australia.
+G'day, I am Harison :smile: I am a current postgraduate student studying Master of Technology (M.S.) degree in Enterprise Systems and Business Analytics at Federation University, Australia.
 
 
 
