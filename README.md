@@ -7,7 +7,7 @@ G'day, I am Harison! I am a postgraduate student studying Master of Technology (
 
  
 
-My CV in (pdf
+My CV (https://github.com/Julia104/portfolioproj/blob/main/CV.pdf)
 
 <br>
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
