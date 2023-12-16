@@ -45,8 +45,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Wikipedia Helicopter Prison Break 
 **Code:** (https://github.com/Julia104/portfolioproj/blob/main/Wikipedia_PrisonEscape.ipynb)    
-**DatasetL** (https://en.wikipedia.org/wiki/List_of_helicopter_prison_escapes#Actual_attempts)
-**Description:** This is a dataset of helicopter prison breaks.The project includes the following steps: data loading, data cleaning and preprocessing and visualization using matplotlib library. 
+**Dataset:** (https://en.wikipedia.org/wiki/List_of_helicopter_prison_escapes#Actual_attempts)
+**Description:** This is a dataset of helicopter prison breaks from Wikipedia.The project includes the following steps: data loading, data cleaning and preprocessing and visualization using matplotlib library. 
 **Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.  
 **Technology:** Python, Pandas, ,helper, Matplotlib.  
 **Results:** To determine a) In which year did the most helicopter prison break attempts occur? b)In which countries do the most attempted helicopter prison escapes occur? c)In which countries do helicopter prison breaks have a higher chance of success?
