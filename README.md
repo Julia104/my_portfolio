@@ -78,7 +78,14 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Gained insights into product categories, month with most posts, rections received to the most popular category.
 
 
-
+### Vertical Institute Data Analytics Bootcamp
+**Dashboard:** (https://public.tableau.com/app/profile/harison.nagisvaran6097/viz/CP_Project/Dashboard2)
+**Slidedeck:** (https://github.com/Julia104/portfolioproj/blob/main/Harison_Nagisvaran_CapestoneProject%20(2).pdf)
+**Dataset:** (https://www.kaggle.com/datasets/dgawlik/nyse)
+**Description:** This is a financial dataset of S&P 500 companies historical prices with fundamental data. I wanted to design a dashboard for users to visualize candlesticks in Tableau to aid beginner investors in technical analysis. 
+**Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.  
+**Technology:** Tableau, Excel 
+**Results:** Tableau dashboard mainly for studying of candlestick price action for the novice investor. 
 
 
 
