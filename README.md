@@ -45,6 +45,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Google Python Class](#google-python-class)
 	+ [Side Projects](#side-projects)
 	+ [Tableau Vizzes](#tableau-vizzes)
+- [Education](#education)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -72,16 +73,18 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Advanced A/B Testing Course](https://drive.google.com/file/d/1rGfXuVLWLkxzrPLE-NgHizMN-tpoZibA/view) (Jun 2023) (karpov.courses)
-- [Algorithms Training 3.0 by Yandex](https://drive.google.com/file/d/1EQ5p0F_acNAXgnKBhgGhxLl-8W6HlCid/view?usp=sharing) (Apr 2023) (Yandex)
-- [Data Structures & Algorithms in Python](https://drive.google.com/file/d/1iRxdsndxcPoww3QvQIpDvq9rl_NcmoPj/view?usp=share_link) (Mar 2023) (Udacity - Google)
-- [A/B Testing](https://drive.google.com/file/d/15eC0plclsU2f3WFzQ7_cVvc-mA8M3h1Z/view?usp=share_link) (Feb 2023) (Udacity - Google)
-- [Teamlead 101](https://drive.google.com/file/d/1-12jUVj8OcLlTQ3147syWIP4nf9a2n9P/view?usp=sharing) (Jul 2022) (Stratoplan Management School)
-- [sklearn ML course](https://drive.google.com/file/d/1aUNxDbRCgnKkSzq6LPLRY91Of3L_AyR7/view?usp=sharing) (May 2022) (France Université Numérique)
-- [Intermediate Machine Learning](https://drive.google.com/file/d/1kqQFRhJtI097SJ7udZVbLRAJBddvWW4S/view?usp=sharing) (Aug 2021) (Kaggle)
-- [Intro to Machine Learning](https://drive.google.com/file/d/1cdL1XluCHCKmG0AarthZm74kiem5y33o/view?usp=sharing) (Aug 2021) (Kaggle)
-- [Data Analyst Specialization](https://drive.google.com/file/d/16WKsX7z5LpMo1VxpZc7CQsWNzYfUzB6f/view?usp=sharing) (Jul 2021) (karpov.courses)
-- [Jira and Confluence basics](https://drive.google.com/file/d/1dTCQGwKoEjBWmeaXHuktiEyYtRvvLPY-/view?usp=sharing) (Jun 2021) (GeekBrains)
+- 
+- [Complete Python Programming Masterclass Beginner to Advanced](https://drive.google.com/file/d/1S0RkLSnhDHnXNs8c2cRnWwJ1BvY_rwL1/view?usp=drive_link) (Aug 2022) (Udemy_
+- [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/harisonnagisvaran-9286/credentials/9cba3263d809a086) (Dec 2023) (Microsoft)
+- [Intermediate SQL Queries](https://drive.google.com/file/d/1eEzvm0sGsJPv4czON6-NlefeuuNFp9FY/view?usp=drive_link) (Jul 2022) (Datacamp)
+- [Data Analytics Bootcamp](https://drive.google.com/file/d/1-RNQhSTtqHYqOPeFb3GAchWe1YG9GwKW/view?usp=drive_link) (June 2022) (Vertical Institute)
+- [Data Analytics and Visualization Virtual Experience](https://drive.google.com/file/d/1htS1O-drYU3mPCmv5l9zaIQMy8mFqzFu/view?usp=drive_link) (Jul 2023) (accenture)
+- [Power BI Virtual Case Experience](https://drive.google.com/file/d/1ODRY_5S7S0tWtZGHI2_Pv2zhUTfnX-P2/view?usp=drive_link) (Jul 2023) (pwc)
+- [DAX Functions in Power BI](https://drive.google.com/file/d/14KbfZbk6gJ6JasZ1h6uksaBsvHM_VHjj/view?usp=drive_link) (Nov 2023) (Datacamp)
+- [Intermediate Data modelling in PowerBI](https://drive.google.com/file/d/1wCsHgxONlGW1BNYYgJmORqzy7A9K29tB/view?usp=drive_link) (Nov 2023) (Datacamp)
+- [Intermediate DAX in PowerBI](https://drive.google.com/file/d/1GnMn1GpU6XG0KXnUrssSiHeKjbxVTFBk/view?usp=drive_link) (Nov 2023) (Datacamp)
+- [Introduction to Pandas and Numpy for Data Analysis](https://drive.google.com/file/d/16DKWRYF7YrsfTW-cMoGdWJIxQO27BZ0o/view?usp=drive_link) (Dec 2023) (Dataquest)
+
 - [Databases for Developers: SQL Foundations](https://drive.google.com/file/d/13dHqXw8Ew3r1XfSxPBkT2lF9_1I3M9cu/view?usp=sharing) (Jun 2021) (Oracle)
 - [Data Analysis Course Tinkoff-MSU](https://drive.google.com/file/d/15OIzi5H3Kxs4-8gx7FNgMrW1FNdueEKC/view?usp=sharing) (May 2021) (Tinkoff Education)
 - [Data Analyst Professional Development Training](https://drive.google.com/file/d/1NqtzP6P5nLn5oSOYNRdq-wZBv6FoheJu/view?usp=sharing) (Mar 2021) (Yandex Praktikum & University 20.35)
@@ -97,7 +100,7 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - [Learning How to Learn](https://coursera.org/share/5e7320a42bee969f6e9e6325559e7215) (Feb 2018) (Coursera - University of California San Diego)
 - [Fundamentals of Project Planning and Management](https://coursera.org/share/e90fb632268a6c233b6e229c7d068e8f) (Oct 2015) (Coursera - University of Virginia)
 - [Introduction to Linux](https://stepik.org/cert/4441) (Dec 2014) (Stepik - Bioinformatics Institute)
-- [IELTS Academic](https://drive.google.com/file/d/1bB3bBUtCeHttCQQHdLP6Om45dFgDyXYw/view?usp=sharing) (Overall Band Score 7.0 - Proficient English User (C1)) (Apr 2014)
+- [IELTS Academic](https://drive.google.com/file/d/1ojXcBfU3GCz94fVnZDR2HqsqlWYdmLVF/view?usp=drive_link) (Overall Band Score 8.0  (Sep 2022)
 
 ## Contacts
 - LinkedIn: [@hnv](https://www.linkedin.com/in/hnv)
