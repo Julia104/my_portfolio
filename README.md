@@ -26,7 +26,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Wikipedia Helicopter Prison Break](#https://github.com/Julia104/my_portfolio/tree/main)
-	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
+	+ [Car sales descriptive analysis  ](#a-Car sales descriptive analysis)
 	+ [A Landing Page Design Experiment](#a-landing-page-design-experiment)
 	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
 	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
@@ -67,6 +67,15 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.  
 **Technology:** Excel 
 **Results:** I built a Excel dashboard to ilustrate the retention rates, average year resale value, power perf facto and unit sales of varying car/manufacturers. I found "Camry" model have had the greatest sales followed by Corolla and Tacoma. Additionally, it was evident models like Land Cruiser and Sienna had the higher power perf factors among the numerous models.
+
+### Accenture North America Virutal Program
+**Code:** (https://github.com/Julia104/Accentureprogram) 
+**Slidedeck:** (https://github.com/Julia104/Accentureprogram/blob/main/Data%20Analytics%20task%203%20_Presentation.pdf)
+**PowerBI Dashboard** (https://github.com/Julia104/Accentureprogram/blob/main/pwc2.pbix)
+**Description:** This is a dataset of helicopter prison breaks from Wikipedia.The project includes the following steps: data loading, data cleaning and preprocessing and visualization using matplotlib library. 
+**Skills:** data cleaning, data modelling, data visualization & strategy, data presentation, project understanding  
+**Technology:** Excel, Power BI 
+**Results:** Gained insights into product categories, month with most posts, rections received to the most popular category.
 
 
 
