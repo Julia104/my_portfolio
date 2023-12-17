@@ -60,7 +60,13 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Python, Pandas, ,helper, Matplotlib.  
 **Results:** Using Python libraries helper,pandas and matplotlib, I determined a) In which year did the most helicopter prison break attempts occur? b)In which countries do the most attempted helicopter prison escapes occur? c)In which countries do helicopter prison breaks have a higher chance of success?
 
-
+### Car sales descriptive analysis   
+**Code:**: (https://github.com/Julia104/Excel-Dashboard)
+**Dataset:** (https://www.kaggle.com/datasets/gagandeep16/car-sales/data)
+**Description:** This is the Car sales data set which include information about different cars. The project includes the following steps: data loading, data cleaning and preprocessing and visualization using Microsoft Excel. 
+**Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.  
+**Technology:** Excel 
+**Results:** I built a Excel dashboard to ilustrate the retention rates, average year resale value, power perf facto and unit sales of varying car/manufacturers. I found "Camry" model have had the greatest sales followed by Corolla and Tacoma. Additionally, it was evident models like Land Cruiser and Sienna had the higher power perf factors among the numerous models.
 
 
 
