@@ -69,7 +69,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** I built a Excel dashboard to ilustrate the retention rates, average year resale value, power perf facto and unit sales of varying car/manufacturers. I found "Camry" model have had the greatest sales followed by Corolla and Tacoma. Additionally, it was evident models like Land Cruiser and Sienna had the higher power perf factors among the numerous models.
 
 ### Interstate 94 Westbound Traffic Analysis
-**Code:**: 
+**Code:**: (https://github.com/Julia104/portfolioproj/blob/main/i94_Traffic_Analysis.ipynb)
 **Dataset:** (https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume)
 **Description:** This dataset includes data on Hourly Interstate 94 Westbound traffic volume for MN DoT ATR station 301, roughly midway between Minneapolis and St Paul, MN.  The project includes the following steps: data loading, data cleaning and preprocessing and visualization using Microsoft Excel. 
 **Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.  
