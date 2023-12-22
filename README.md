@@ -68,6 +68,22 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Excel 
 **Results:** I built a Excel dashboard to ilustrate the retention rates, average year resale value, power perf facto and unit sales of varying car/manufacturers. I found "Camry" model have had the greatest sales followed by Corolla and Tacoma. Additionally, it was evident models like Land Cruiser and Sienna had the higher power perf factors among the numerous models.
 
+### Interstate 94 Westbound Traffic Analysis
+**Code:**: 
+**Dataset:** (https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume)
+**Description:** This dataset includes data on Hourly Interstate 94 Westbound traffic volume for MN DoT ATR station 301, roughly midway between Minneapolis and St Paul, MN.  The project includes the following steps: data loading, data cleaning and preprocessing and visualization using Microsoft Excel. 
+**Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.  
+**Technology:** Python, Matplotlib
+**Results:** I attempted to find a few indicators of heavy traffic on the I-94 Interstate highway namely time and weather indicators.
+
+### Los Angeles Crime Analysis 
+**Code:**: 
+**Dataset:** (https://catalog.data.gov/dataset/crime-data-from-2020-to-present)d
+**Description:** This dataset includes data on Hourly Interstate 94 Westbound traffic volume for MN DoT ATR station 301, roughly midway between Minneapolis and St Paul, MN.  The project includes the following steps: data loading, data cleaning and preprocessing and visualization using Microsoft Excel. 
+**Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.  
+**Technology:** SAP Predictive Analysis, SAP Lumira, PowerBI, Excel
+**Results:** I attempted to find a few indicators of heavy traffic on the I-94 Interstate highway namely time and weather indicators.
+
 ### Accenture North America Virutal Program
 **Code:** (https://github.com/Julia104/Accentureprogram) 
 **Slidedeck:** (https://github.com/Julia104/Accentureprogram/blob/main/Data%20Analytics%20task%203%20_Presentation.pdf)
