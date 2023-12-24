@@ -113,7 +113,7 @@ In this section I will list data analytics projects briefly describing the techn
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - 
 - [Complete Python Programming Masterclass Beginner to Advanced](https://drive.google.com/file/d/1S0RkLSnhDHnXNs8c2cRnWwJ1BvY_rwL1/view?usp=drive_link) (Aug 2022) (Udemy_
-- [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/harisonnagisvaran-9286/credentials/9cba3263d809a086) (Dec 2023) (Microsoft)
+- [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/harisonnagisvaran-9286/credentials/9cba3263d809a086) (Dec 2023) (Microsoft 855/1000)
 - [Intermediate SQL Queries](https://drive.google.com/file/d/1eEzvm0sGsJPv4czON6-NlefeuuNFp9FY/view?usp=drive_link) (Jul 2022) (Datacamp)
 - [Data Analytics Bootcamp](https://drive.google.com/file/d/1-RNQhSTtqHYqOPeFb3GAchWe1YG9GwKW/view?usp=drive_link) (June 2022) (Vertical Institute)
 - [Data Analytics and Visualization Virtual Experience](https://drive.google.com/file/d/1htS1O-drYU3mPCmv5l9zaIQMy8mFqzFu/view?usp=drive_link) (Jul 2023) (accenture)
