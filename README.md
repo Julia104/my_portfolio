@@ -105,7 +105,13 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 
-
+###  Clean and Analyze Employee Exit Surveys
+**Code:**: (https://github.com/Julia104/portfolioproj/blob/main/Employee_Exitsurveys.ipynb)
+**Dataset:** (https://data.gov.au/dataset/ds-qld-fe96ff30-d157-4a81-851d-215f2a0fe26d/details?q=exit%20survey)
+**Description:** This dataset includes exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia. The project includes the following steps: data loading, data cleaning and preprocessing and visualization using matplolib 
+**Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.  
+**Technology:** Python, Matplotlib, Seaborn, Numpy, datetime
+**Results:** I attempted to find out : Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
 
 
 
