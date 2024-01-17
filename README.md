@@ -114,7 +114,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** I attempted to find out : Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
 
 ###  Storytelling Data Visualization on EUR/USD Rates
-**Code:**: (https://github.com/Julia104/portfolioproj/blob/main/Employee_Exitsurveys.ipynb)
+**Code:**: (https://github.com/Julia104/portfolioproj/blob/main/Storytelling%20Data%20Visualization%20on%20Exchange%20Rates.ipynb)
 **Dataset:** (https://www.kaggle.com/datasets/lsind18/euro-exchange-daily-rates-19992020)
 **Description:** This dataset The dataset describes Euro daily exchange rates between 1999 and 2021.
 **Skills:** data cleaning, , data visualization.  
