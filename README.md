@@ -113,7 +113,13 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Python, Matplotlib, Seaborn, Numpy, datetime
 **Results:** I attempted to find out : Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
 
-
+###  Storytelling Data Visualization on EUR/USD Rates
+**Code:**: (https://github.com/Julia104/portfolioproj/blob/main/Employee_Exitsurveys.ipynb)
+**Dataset:** (https://www.kaggle.com/datasets/lsind18/euro-exchange-daily-rates-19992020)
+**Description:** This dataset The dataset describes Euro daily exchange rates between 1999 and 2021.
+**Skills:** data cleaning, , data visualization.  
+**Technology:** Python, Matplotlib, datetime
+**Results:** I wanted to show how the euro-dollar rate changed during the 2007-2008 financial crisis through creating a line plot.
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
