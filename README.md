@@ -116,10 +116,18 @@ In this section I will list data analytics projects briefly describing the techn
 ###  Storytelling Data Visualization on EUR/USD Rates
 **Code:**: (https://github.com/Julia104/portfolioproj/blob/main/Storytelling%20Data%20Visualization%20on%20Exchange%20Rates.ipynb)
 **Dataset:** (https://www.kaggle.com/datasets/lsind18/euro-exchange-daily-rates-19992020)
-**Description:** This dataset The dataset describes Euro daily exchange rates between 1999 and 2021.
+**Description:** This dataset describes Euro daily exchange rates (against other currencies) between 1999 and 2021.
 **Skills:** data cleaning, , data visualization.  
 **Technology:** Python, Matplotlib, datetime
 **Results:** I wanted to show how the euro-dollar rate changed during the 2007-2008 financial crisis through creating a line plot.
+
+###  Coffee Sales Dashboard
+**Dashboard:**: (https://github.com/Julia104/portfolioproj/blob/main/coffeeOrdersData.xlsx)
+**Dataset:** (https://github.com/Julia104/portfolioproj/blob/main/Orginal_coffeeOrdersData.xlsx)
+**Description:** This dataset describes the coffee sales from a fictitious company.
+**Skills:** data cleaning, data visualization.  
+**Technology:** Microsoft Excel
+**Results:** I wanted to build an interactive dashboard highlighting total sales over time and by country and top 5 customers. 
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
