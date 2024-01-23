@@ -77,12 +77,13 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** I attempted to find a few indicators of heavy traffic on the I-94 Interstate highway namely time and weather indicators.  
 
 ### Los Angeles Crime Analysis 
-**Dashboard**: (https://www.novypro.com/project/los-angeles-crime-analysis)  
+**Dashboard**: (https://www.novypro.com/project/los-angeles-crime-analysis)
+**Slide Deck**: (https://github.com/Julia104/portfolioproj/blob/main/ITECH7406_Group10%20(1).pptx)
 **Dataset:** (https://catalog.data.gov/dataset/crime-data-from-2020-to-present)  
-**Description:** This dataset includes data on Hourly Interstate 94 Westbound traffic volume for MN DoT ATR station 301, roughly midway between Minneapolis and St Paul, MN.  The project includes the following steps: data loading, data cleaning and preprocessing and visualization using Microsoft Excel.   
+**Description:** This dataset reflects incidents of crime in the City of Los Angeles dating back to 2020.  
 **Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.    
 **Technology:** SAP Predictive Analysis, SAP Lumira, PowerBI, Excel  
-**Results:** I attempted to find a few indicators of heavy traffic on the I-94 Interstate highway namely time and weather indicators.  
+**Results:** As part of my school assignment, I built 3 dashboards & a slide deck highlighting key statistics from the crime data to be shared with the senior management of Los Angeles Police department.
 
 ### Accenture North America Virutal Program
 **Code:** (https://github.com/Julia104/Accentureprogram)   
