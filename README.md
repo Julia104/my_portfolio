@@ -53,73 +53,73 @@ This repository serves to showcase my skills and as a platform to share my proje
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Wikipedia Helicopter Prison Break 
-**Code:** (https://github.com/Julia104/portfolioproj/blob/main/Wikipedia_PrisonEscape.ipynb)    
-**Dataset:** (https://en.wikipedia.org/wiki/List_of_helicopter_prison_escapes#Actual_attempts)
-**Description:** This is a dataset of helicopter prison breaks from Wikipedia.The project includes the following steps: data loading, data cleaning and preprocessing and visualization using matplotlib library. 
-**Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.  
-**Technology:** Python, Pandas, ,helper, Matplotlib.  
-**Results:** Using Python libraries helper,pandas and matplotlib, I determined a) In which year did the most helicopter prison break attempts occur? b)In which countries do the most attempted helicopter prison escapes occur? c)In which countries do helicopter prison breaks have a higher chance of success?
+**Code:** (https://github.com/Julia104/portfolioproj/blob/main/Wikipedia_PrisonEscape.ipynb)      
+**Dataset:** (https://en.wikipedia.org/wiki/List_of_helicopter_prison_escapes#Actual_attempts)  
+**Description:** This is a dataset of helicopter prison breaks from Wikipedia.The project includes the following steps: data loading, data cleaning and preprocessing and visualization using matplotlib library.   
+**Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.    
+**Technology:** Python, Pandas, ,helper, Matplotlib.    
+**Results:** Using Python libraries helper,pandas and matplotlib, I determined a) In which year did the most helicopter prison break attempts occur? b)In which countries do the most attempted helicopter prison escapes occur? c)In which countries do helicopter prison breaks have a higher chance of success?  
 
 ### Car sales descriptive analysis   
-**Code:**: (https://github.com/Julia104/Excel-Dashboard)
-**Dataset:** (https://www.kaggle.com/datasets/gagandeep16/car-sales/data)
-**Description:** This is the Car sales data set which include information about different cars. The project includes the following steps: data loading, data cleaning and preprocessing and visualization using Microsoft Excel. 
-**Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.  
-**Technology:** Excel 
-**Results:** I built a Excel dashboard to ilustrate the retention rates, average year resale value, power perf facto and unit sales of varying car/manufacturers. I found "Camry" model have had the greatest sales followed by Corolla and Tacoma. Additionally, it was evident models like Land Cruiser and Sienna had the higher power perf factors among the numerous models.
+**Code:**: (https://github.com/Julia104/Excel-Dashboard)  
+**Dataset:** (https://www.kaggle.com/datasets/gagandeep16/car-sales/data)  
+**Description:** This is the Car sales data set which include information about different cars. The project includes the following steps: data loading, data cleaning and preprocessing and visualization using Microsoft Excel.   
+**Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.    
+**Technology:** Excel   
+**Results:** I built a Excel dashboard to ilustrate the retention rates, average year resale value, power perf facto and unit sales of varying car/manufacturers. I found "Camry" model have had the greatest sales followed by Corolla and Tacoma. Additionally, it was evident models like Land Cruiser and Sienna had the higher power perf factors among the numerous models.  
 
-### Interstate 94 Westbound Traffic Analysis
-**Code:**: (https://github.com/Julia104/portfolioproj/blob/main/i94_Traffic_Analysis.ipynb)
-**Dataset:** (https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume)
-**Description:** This dataset includes data on Hourly Interstate 94 Westbound traffic volume for MN DoT ATR station 301, roughly midway between Minneapolis and St Paul, MN.  The project includes the following steps: data loading, data cleaning and preprocessing and visualization using Microsoft Excel. 
-**Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.  
-**Technology:** Python, Matplotlib
-**Results:** I attempted to find a few indicators of heavy traffic on the I-94 Interstate highway namely time and weather indicators.
+### Interstate 94 Westbound Traffic Analysis  
+**Code:**: (https://github.com/Julia104/portfolioproj/blob/main/i94_Traffic_Analysis.ipynb)  
+**Dataset:** (https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume)  
+**Description:** This dataset includes data on Hourly Interstate 94 Westbound traffic volume for MN DoT ATR station 301, roughly midway between Minneapolis and St Paul, MN.  The project includes the following steps: data loading, data cleaning and preprocessing and visualization using Microsoft Excel.   
+**Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.   
+**Technology:** Python, Matplotlib  
+**Results:** I attempted to find a few indicators of heavy traffic on the I-94 Interstate highway namely time and weather indicators.  
 
 ### Los Angeles Crime Analysis 
 **Code:**: 
-**Dataset:** (https://catalog.data.gov/dataset/crime-data-from-2020-to-present)d
-**Description:** This dataset includes data on Hourly Interstate 94 Westbound traffic volume for MN DoT ATR station 301, roughly midway between Minneapolis and St Paul, MN.  The project includes the following steps: data loading, data cleaning and preprocessing and visualization using Microsoft Excel. 
-**Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.  
-**Technology:** SAP Predictive Analysis, SAP Lumira, PowerBI, Excel
-**Results:** I attempted to find a few indicators of heavy traffic on the I-94 Interstate highway namely time and weather indicators.
+**Dataset:** (https://catalog.data.gov/dataset/crime-data-from-2020-to-present)  
+**Description:** This dataset includes data on Hourly Interstate 94 Westbound traffic volume for MN DoT ATR station 301, roughly midway between Minneapolis and St Paul, MN.  The project includes the following steps: data loading, data cleaning and preprocessing and visualization using Microsoft Excel.   
+**Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.    
+**Technology:** SAP Predictive Analysis, SAP Lumira, PowerBI, Excel  
+**Results:** I attempted to find a few indicators of heavy traffic on the I-94 Interstate highway namely time and weather indicators.  
 
 ### Accenture North America Virutal Program
-**Code:** (https://github.com/Julia104/Accentureprogram) 
-**Slidedeck:** (https://github.com/Julia104/Accentureprogram/blob/main/Data%20Analytics%20task%203%20_Presentation.pdf)
-**PowerBI Dashboard** (https://github.com/Julia104/Accentureprogram/blob/main/pwc2.pbix)
-**Description:** This is a dataset of helicopter prison breaks from Wikipedia.The project includes the following steps: data loading, data cleaning and preprocessing and visualization using matplotlib library. 
-**Skills:** data cleaning, data modelling, data visualization & strategy, data presentation, project understanding  
-**Technology:** Excel, Power BI 
-**Results:** Gained insights into product categories, month with most posts, rections received to the most popular category.
+**Code:** (https://github.com/Julia104/Accentureprogram)   
+**Slidedeck:** (https://github.com/Julia104/Accentureprogram/blob/main/Data%20Analytics%20task%203%20_Presentation.pdf)  
+**PowerBI Dashboard** (https://github.com/Julia104/Accentureprogram/blob/main/pwc2.pbix)  
+**Description:** This is a dataset of helicopter prison breaks from Wikipedia.The project includes the following steps: data loading, data cleaning and preprocessing and visualization using matplotlib library   
+**Skills:** data cleaning, data modelling, data visualization & strategy, data presentation, project understanding    
+**Technology:** Excel, Power BI   
+**Results:** Gained insights into product categories, month with most posts, rections received to the most popular category.  
 
 
 ### Vertical Institute Data Analytics Bootcamp
-**Dashboard:** (https://public.tableau.com/app/profile/harison.nagisvaran6097/viz/CP_Project/Dashboard2)
-**Slidedeck:** (https://github.com/Julia104/portfolioproj/blob/main/Harison_Nagisvaran_CapestoneProject%20(2).pdf)
-**Dataset:** (https://www.kaggle.com/datasets/dgawlik/nyse)
-**Description:** This is a financial dataset of S&P 500 companies historical prices with fundamental data. I wanted to design a dashboard for users to visualize candlesticks in Tableau to aid beginner investors in technical analysis. 
-**Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.  
-**Technology:** Tableau, Excel 
-**Results:** Tableau dashboard mainly for studying of candlestick price action for the novice investor. 
+**Dashboard:** (https://public.tableau.com/app/profile/harison.nagisvaran6097/viz/CP_Project/Dashboard2)  
+**Slidedeck:** (https://github.com/Julia104/portfolioproj/blob/main/Harison_Nagisvaran_CapestoneProject%20(2).pdf)  
+**Dataset:** (https://www.kaggle.com/datasets/dgawlik/nyse)  
+**Description:** This is a financial dataset of S&P 500 companies historical prices with fundamental data. I wanted to design a dashboard for users to visualize candlesticks in Tableau to aid beginner investors in technical analysis.   
+**Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.    
+**Technology:** Tableau, Excel   
+**Results:** Tableau dashboard mainly for studying of candlestick price action for the novice investor.   
 
 
 
 ###  Clean and Analyze Employee Exit Surveys
-**Code:**: (https://github.com/Julia104/portfolioproj/blob/main/Employee_Exitsurveys.ipynb)
-**Dataset:** (https://data.gov.au/dataset/ds-qld-fe96ff30-d157-4a81-851d-215f2a0fe26d/details?q=exit%20survey)
-**Description:** This dataset includes exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia. The project includes the following steps: data loading, data cleaning and preprocessing and visualization using matplolib 
-**Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.  
-**Technology:** Python, Matplotlib, Seaborn, Numpy, datetime
-**Results:** I attempted to find out : Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
+**Code:**: (https://github.com/Julia104/portfolioproj/blob/main/Employee_Exitsurveys.ipynb)  
+**Dataset:** (https://data.gov.au/dataset/ds-qld-fe96ff30-d157-4a81-851d-215f2a0fe26d/details?q=exit%20survey)  
+**Description:** This dataset includes exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia. The project includes the following steps: data loading, data cleaning and preprocessing and visualization using matplolib   
+**Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.    
+**Technology:** Python, Matplotlib, Seaborn, Numpy, datetime  
+**Results:** I attempted to find out : Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?  
 
-###  Storytelling Data Visualization on EUR/USD Rates
-**Code:**: (https://github.com/Julia104/portfolioproj/blob/main/Storytelling%20Data%20Visualization%20on%20Exchange%20Rates.ipynb)
-**Dataset:** (https://www.kaggle.com/datasets/lsind18/euro-exchange-daily-rates-19992020)
-**Description:** This dataset describes Euro daily exchange rates (against other currencies) between 1999 and 2021.
-**Skills:** data cleaning, , data visualization.  
-**Technology:** Python, Matplotlib, datetime
-**Results:** I wanted to show how the euro-dollar rate changed during the 2007-2008 financial crisis through creating a line plot.
+###  Storytelling Data Visualization on EUR/USD Rates  
+**Code:**: (https://github.com/Julia104/portfolioproj/blob/main/Storytelling%20Data%20Visualization%20on%20Exchange%20Rates.ipynb)  
+**Dataset:** (https://www.kaggle.com/datasets/lsind18/euro-exchange-daily-rates-19992020)  
+**Description:** This dataset describes Euro daily exchange rates (against other currencies) between 1999 and 2021.  
+**Skills:** data cleaning, , data visualization.    
+**Technology:** Python, Matplotlib, datetime  
+**Results:** I wanted to show how the euro-dollar rate changed during the 2007-2008 financial crisis through creating a line plot.  
 
 ###  Coffee Sales Dashboard
 **Dashboard:**: (https://github.com/Julia104/portfolioproj/blob/main/coffeeOrdersData.xlsx)  
