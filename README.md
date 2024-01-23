@@ -122,12 +122,12 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** I wanted to show how the euro-dollar rate changed during the 2007-2008 financial crisis through creating a line plot.
 
 ###  Coffee Sales Dashboard
-**Dashboard:**: (https://github.com/Julia104/portfolioproj/blob/main/coffeeOrdersData.xlsx).
-**Dataset:** (https://github.com/Julia104/portfolioproj/blob/main/Orginal_coffeeOrdersData.xlsx)
-**Description:** This dataset describes the coffee sales from a fictitious company.
-**Skills:** data cleaning, data visualization.  
-**Technology:** Microsoft Excel.
-**Results:** I wanted to build an interactive dashboard highlighting total sales over time and by country and top 5 customers. 
+**Dashboard:**: (https://github.com/Julia104/portfolioproj/blob/main/coffeeOrdersData.xlsx)  
+**Dataset:** (https://github.com/Julia104/portfolioproj/blob/main/Orginal_coffeeOrdersData.xlsx)  
+**Description:** This dataset describes the coffee sales from a fictitious company  
+**Skills:** data cleaning, data visualization    
+**Technology:** Microsoft Excel  
+**Results:** I wanted to build an interactive dashboard highlighting total sales over time and by country and top 5 customers   
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
