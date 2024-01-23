@@ -77,7 +77,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** I attempted to find a few indicators of heavy traffic on the I-94 Interstate highway namely time and weather indicators.  
 
 ### Los Angeles Crime Analysis 
-**Code:**: 
+**Dashboard**: (https://www.novypro.com/project/los-angeles-crime-analysis)  
 **Dataset:** (https://catalog.data.gov/dataset/crime-data-from-2020-to-present)  
 **Description:** This dataset includes data on Hourly Interstate 94 Westbound traffic volume for MN DoT ATR station 301, roughly midway between Minneapolis and St Paul, MN.  The project includes the following steps: data loading, data cleaning and preprocessing and visualization using Microsoft Excel.   
 **Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.    
