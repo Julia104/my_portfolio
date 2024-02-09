@@ -125,6 +125,14 @@ In this section I will list data analytics projects briefly describing the techn
 ###  Coffee Sales Dashboard
 **Dashboard:**: (https://github.com/Julia104/portfolioproj/blob/main/coffeeOrdersData.xlsx)  
 **Dataset:** (https://github.com/Julia104/portfolioproj/blob/main/Orginal_coffeeOrdersData.xlsx)  
+**Description:** This dataset contains the historical data of Bitcoin, a decentralized digital currency. 
+**Skills:** data cleaning, data visualization    
+**Technology:** Microsoft Excel  
+**Results:** I wanted to build an simple Excel report ,from real price market data, containing data visualizations to communicate knowledge and information to make wise data-driven decisions is a valuable skill for any finance professional.
+
+###  Bitcoin price analysis Dashboard
+**Dashboard:**: (https://github.com/Julia104/portfolioproj/blob/main/Bitcoin_value.xlsx)  
+**Dataset:** (https://www.kaggle.com/datasets/mushfirat/106-cryptocurrency-historical-data) 
 **Description:** This dataset describes the coffee sales from a fictitious company  
 **Skills:** data cleaning, data visualization    
 **Technology:** Microsoft Excel  
