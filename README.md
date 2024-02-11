@@ -138,6 +138,14 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Microsoft Excel  
 **Results:** I wanted to build an interactive dashboard highlighting total sales over time and by country and top 5 customers   
 
+###  Analyzing Retail Sales
+**Dashboard:**: (https://github.com/Julia104/portfolioproj/blob/main/superstore.xlsx)  
+**Dataset:** (https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls) 
+**Description:** This dataset explores the chain's sales performance over the past few years across all categories. 
+**Skills:** data cleaning, data visualization    
+**Technology:** Microsoft Excel ( Pivotables,variance and trend analysis tools,What-If Analysis tools,VLOOKUP())  
+**Results:** Excel report displaying chain's sales performance over the past few years across all categories.
+
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - 
