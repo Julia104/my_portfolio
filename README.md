@@ -146,6 +146,25 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Microsoft Excel ( Pivotables,variance and trend analysis tools,What-If Analysis tools,VLOOKUP())  
 **Results:** Excel report displaying chain's sales performance over the past few years across all categories.
 
+###  Customers and Products Analysis Using SQL
+**Dataset:** (https://dq-content.s3.amazonaws.com/600/stores.db) 
+**Description:** This dataset contains data from 8 tables:
+	Customers: customer data
+	Employees: all employee information
+	Offices: sales office information
+	Orders: customers' sales orders
+	OrderDetails: sales order line for each sales order
+	Payments: customers' payment records
+	Products: a list of scale model cars
+	ProductLines: a list of product line categories
+**Skills:** SQL CTE, JOINS   
+**Technology:** DB Browser, SQLite
+**Queries** https://github.com/Julia104/portfolioproj/blob/main/customerproductanalysis
+
+
+
+
+
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - 
