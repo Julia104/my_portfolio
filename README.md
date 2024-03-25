@@ -4,7 +4,7 @@
 ## About
 
 G'day, I am Harison :smile: 
-I am a current postgraduate student studying Master of Technology (M.S.) degree in Enterprise Systems and Business Analytics at Federation University, Australia.
+I am an aspiring data/BI analyst.
 
 
 My CV (https://github.com/Julia104/portfolioproj/blob/main/CV.pdf)
