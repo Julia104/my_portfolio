@@ -31,8 +31,6 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Los Angeles Crime Analysis]
 	+ [Accenture North America Virutal Program](#airbnb-listings-analytics)
   	+ [Vertical Institute Data Analytics Bootcamp](#advanced-ab-testing-course)
-	+ [Algorithms Training 3.0 by Yandex](#algorithms-training-by-yandex)
-	+ [Data Structures & Algorithms in Python](#data-structures-and-algorithms-in-python)
 	+ [Clean and Analyze Employee Exit Surveys](#ab-testing-course-by-google)
 	+ [Storytelling Data Visualization on EUR/USD Ratese](#sklearn-ml-course)
 	+ [Coffee Sales Dashboard](#kaggle-30-days-of-ml)
