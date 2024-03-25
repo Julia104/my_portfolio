@@ -178,22 +178,7 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - [Intermediate DAX in PowerBI](https://drive.google.com/file/d/1GnMn1GpU6XG0KXnUrssSiHeKjbxVTFBk/view?usp=drive_link) (Nov 2023) (Datacamp)
 - [Introduction to Pandas and Numpy for Data Analysis](https://drive.google.com/file/d/16DKWRYF7YrsfTW-cMoGdWJIxQO27BZ0o/view?usp=drive_link) (Dec 2023) (Dataquest)
 
-- [Databases for Developers: SQL Foundations](https://drive.google.com/file/d/13dHqXw8Ew3r1XfSxPBkT2lF9_1I3M9cu/view?usp=sharing) (Jun 2021) (Oracle)
-- [Data Analysis Course Tinkoff-MSU](https://drive.google.com/file/d/15OIzi5H3Kxs4-8gx7FNgMrW1FNdueEKC/view?usp=sharing) (May 2021) (Tinkoff Education)
-- [Data Analyst Professional Development Training](https://drive.google.com/file/d/1NqtzP6P5nLn5oSOYNRdq-wZBv6FoheJu/view?usp=sharing) (Mar 2021) (Yandex Praktikum & University 20.35)
-- [Data Literacy Certificate](https://drive.google.com/file/d/1zuPfb6Cp3yritjC-fXwOKNXb_FVoHwBp/view?usp=sharing) (Mar 2021) (Qlik Q, accenture, Data Yoga)
-- [New Features in Python 3.9 course](https://realpython.com/certificates/4becca93-d978-4e96-8c24-5afe861b3ad2/) (Jan 2021) (RealPython)
-- [Fintech Trends](https://drive.google.com/file/d/1L9MISA6nYsf0mJ8c6Mp3davLv-yWKzt7/view?usp=sharing) (Dec 2020) (Tinkoff Education) 
-- [Data Science Math Skills](https://coursera.org/share/03d1c12de0037c35bb3dd1e35d23f4d6) (Oct 2020) (Coursera - Duke University)
-- [Computer Science Career Path](https://drive.google.com/file/d/1cCcg7Uf4qqGq6B5OFLBPrNAA3ncEYgXD/view?usp=sharing) (Jul 2020) (Codecademy)
-- [Learn the Command Line Course](https://drive.google.com/file/d/1yPtPFhvKmsv9rmJbvf3dtarXavpsi6lq/view?usp=sharing) (Jul 2020) (Codecademy)
-- [Learn Git Course](https://drive.google.com/file/d/19DrPoYxcjijNvIbnXF959uIO_Kl7TOZ1/view) (Jun 2020) (Codecademy)
-- [Learn Python 3 Course](https://drive.google.com/file/d/1VTGmE15-QbwMyscxVpAAKAwllZgc1a8c/view?usp=sharing) (Jun 2020) (Codecademy)
-- [English for Career Development](https://coursera.org/share/f7e97252ee37a74d3c1f57f54f5d5a54) (Feb 2018) (Coursera - University of Pennsylvania)
-- [Learning How to Learn](https://coursera.org/share/5e7320a42bee969f6e9e6325559e7215) (Feb 2018) (Coursera - University of California San Diego)
-- [Fundamentals of Project Planning and Management](https://coursera.org/share/e90fb632268a6c233b6e229c7d068e8f) (Oct 2015) (Coursera - University of Virginia)
-- [Introduction to Linux](https://stepik.org/cert/4441) (Dec 2014) (Stepik - Bioinformatics Institute)
-- [IELTS Academic](https://drive.google.com/file/d/1ojXcBfU3GCz94fVnZDR2HqsqlWYdmLVF/view?usp=drive_link) (Overall Band Score 8.0  (Sep 2022)
+
 
 ## Contacts
 - LinkedIn: [@hnv](https://www.linkedin.com/in/hnv)
