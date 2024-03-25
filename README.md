@@ -146,7 +146,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Excel report displaying chain's sales performance over the past few years across all categories.
 
 ###  Customers and Products Analysis Using SQL
-**Dataset:** (https://dq-content.s3.amazonaws.com/600/stores.db) 
+**Dataset:** (https://dq-content.s3.amazonaws.com/600/stores.db)   
 **Description:** This dataset contains data from 8 tables:
 	Customers: customer data
 	Employees: all employee information
@@ -155,10 +155,10 @@ In this section I will list data analytics projects briefly describing the techn
 	OrderDetails: sales order line for each sales order
 	Payments: customers' payment records
 	Products: a list of scale model cars
-	ProductLines: a list of product line categories
+	ProductLines: a list of product line categories  
 **Skills:** SQL CTE, JOINS   
-**Technology:** DB Browser, SQLite
-**Queries** https://github.com/Julia104/portfolioproj/blob/main/customerproductanalysis
+**Technology:** DB Browser, SQLite  
+**Queries** https://github.com/Julia104/portfolioproj/blob/main/customerproductanalysis  
 
 
 
