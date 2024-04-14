@@ -25,8 +25,8 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Wikipedia Helicopter Prison Break](#https://github.com/Julia104/my_portfolio/tree/main)
-	+ [Car sales descriptive analysis](#https://github.com/Julia104/my_portfolio/tree/main)
+	+ [Wikipedia Helicopter Prison Break](#heli-copter)
+	+ [Car sales descriptive analysis](#car-sales)
 	+ [Interstate 94 Westbound Traffic Analysis](#a-landing-page-design-experiment)
 	+ [Los Angeles Crime Analysis](#https://github.com/Julia104/my_portfolio/tree/main)
 	+ [Accenture North America Virutal Program](#airbnb-listings-analytics)
