@@ -37,7 +37,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Bitcoin price analysis Dashboard](#data-analyst-specialization)
 	+ [Analyzing Retail Sales](#data-analysis-course-tinkoff-msu)
 	+ [Customers and Products Analysis Using SQL](#learning-sql)
-	+ [Northwind Traders](#https://github.com/Julia104/my_portfolio/tree/main)
+	+ [Northwind Traders](#north-wind)
 	+ [Computer Science Career Path](#computer-science-career-path)
 	+ [Google Python Class](#google-python-class)
 	+ [Side Projects](#side-projects)
