@@ -28,7 +28,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Wikipedia Helicopter Prison Break](#https://github.com/Julia104/my_portfolio/tree/main)
 	+ [Car sales descriptive analysis](#https://github.com/Julia104/my_portfolio/tree/main)
 	+ [Interstate 94 Westbound Traffic Analysis](#a-landing-page-design-experiment)
-	+ [Los Angeles Crime Analysis] (#https://github.com/Julia104/my_portfolio/tree/main)
+	+ [Los Angeles Crime Analysis](#https://github.com/Julia104/my_portfolio/tree/main)
 	+ [Accenture North America Virutal Program](#airbnb-listings-analytics)
   	+ [Vertical Institute Data Analytics Bootcamp](#advanced-ab-testing-course)
 	+ [Clean and Analyze Employee Exit Surveys](#ab-testing-course-by-google)
