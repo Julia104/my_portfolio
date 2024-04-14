@@ -26,7 +26,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Wikipedia Helicopter Prison Break](#https://github.com/Julia104/my_portfolio/tree/main)
-	+ [Car sales descriptive analysis](#a-Car sales descriptive analysis)
+	+ [Car sales descriptive analysis](#Car sales descriptive analysis)
 	+ [Interstate 94 Westbound Traffic Analysis](#a-landing-page-design-experiment)
 	+ [Los Angeles Crime Analysis]
 	+ [Accenture North America Virutal Program](#airbnb-listings-analytics)
@@ -37,7 +37,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Bitcoin price analysis Dashboard](#data-analyst-specialization)
 	+ [Analyzing Retail Sales](#data-analysis-course-tinkoff-msu)
 	+ [Customers and Products Analysis Using SQL](#learning-sql)
-	+ [Python Developer Track](#python-developer-track)
+	+ [Northwind Traders](#python-developer-track)
 	+ [Computer Science Career Path](#computer-science-career-path)
 	+ [Google Python Class](#google-python-class)
 	+ [Side Projects](#side-projects)
@@ -102,7 +102,6 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Tableau dashboard mainly for studying of candlestick price action for the novice investor.   
 
 
-
 ###  Clean and Analyze Employee Exit Surveys
 **Code:**: (https://github.com/Julia104/portfolioproj/blob/main/Employee_Exitsurveys.ipynb)  
 **Dataset:** (https://data.gov.au/dataset/ds-qld-fe96ff30-d157-4a81-851d-215f2a0fe26d/details?q=exit%20survey)  
@@ -159,7 +158,12 @@ In this section I will list data analytics projects briefly describing the techn
 **Queries** https://github.com/Julia104/portfolioproj/blob/main/customerproductanalysis  
 
 
-
+###  Northwind Traders
+**Queries:**: (https://github.com/Julia104/portfolioproj/blob/main/northwinds%20proj%20(1).ipynb)  
+**Description:** Northwind Traders are an international gourmet food distributor. Management is looking for insights to make strategic decisions in several aspects of the business.
+**Skills:** PostgreSQL, pgAdmin4, Windows & CTE usage 
+**Technology:** PostgreSQL via pgAmin4 ( Pivotables,variance and trend analysis tools,What-If Analysis tools,VLOOKUP())  
+**Results:** Using the PostgreSQL window functions on the Northwind database, I will provide  essential insights to management, contributing significantly to the company's strategic decisions. 
 
 
 ## Certificates
