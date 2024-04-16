@@ -159,11 +159,11 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ###  Northwind Traders
-**Queries:**: (https://github.com/Julia104/portfolioproj/blob/main/northwinds%20proj%20(1).ipynb)  
-**Description:** Northwind Traders are an international gourmet food distributor. Management is looking for insights to make strategic decisions in several aspects of the business.
-**Skills:** PostgreSQL, pgAdmin4, Windows & CTE usage 
-**Technology:** PostgreSQL via pgAmin4 ( Pivotables,variance and trend analysis tools,What-If Analysis tools,VLOOKUP())  
-**Results:** Using the PostgreSQL window functions on the Northwind database, I will provide  essential insights to management, contributing significantly to the company's strategic decisions. 
+**Queries:**: (https://github.com/Julia104/portfolioproj/blob/main/northwinds%20proj%20(1).ipynb)    
+**Description:** Northwind Traders are an international gourmet food distributor. Management is looking for insights to make strategic decisions in several aspects of the business.  
+**Skills:** PostgreSQL, pgAdmin4, Windows & CTE usage   
+**Technology:** PostgreSQL via pgAmin4 ( Pivotables,variance and trend analysis tools,What-If Analysis tools,VLOOKUP())    
+**Results:** Using the PostgreSQL window functions on the Northwind database, I will provide  essential insights to management, contributing significantly to the company's strategic decisions.   
 
 
 ## Certificates
