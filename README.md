@@ -38,7 +38,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Analyzing Retail Sales](#data-analysis-course-tinkoff-msu)
 	+ [Customers and Products Analysis Using SQL](#learning-sql)
 	+ [Northwind Traders](#north-wind)
-	+ [Computer Science Career Path](#computer-science-career-path)
+	+ [Building a BI App](#Dataquest-performance)
 	+ [Google Python Class](#google-python-class)
 	+ [Side Projects](#side-projects)
 	+ [Tableau Vizzes](#tableau-vizzes)
@@ -164,6 +164,16 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** PostgreSQL, pgAdmin4, Windows & CTE usage   
 **Technology:** PostgreSQL via pgAmin4 ( Pivotables,variance and trend analysis tools,What-If Analysis tools,VLOOKUP())    
 **Results:** Using the PostgreSQL window functions on the Northwind database, I will provide  essential insights to management, contributing significantly to the company's strategic decisions.   
+
+###  Building a PowerBI App
+**Dashboard:**: (https://github.com/Julia104/portfolioproj/blob/main/BI%20app.pbix)  
+**Dataset:** 
+**Description:** This dataset explores the dataquest's course information.This project has three data tables, stored as CSVs.
+**Skills:** data cleaning, data modelling, data visualization   
+**Technology:** PowerBI 
+**Results:**  importing data in Power BI and building out the data model. Then I create series of analyses and visualizations on course completion rates and course ratings. Based on these analyses, I will make a recommendation for which courses should be improved. 	      Lastly, I published the report to a Power BI app.
+
+
 
 
 ## Certificates
