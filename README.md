@@ -53,8 +53,8 @@ In this section I will list data analytics projects briefly describing the techn
 **Dashboard**: (https://www.novypro.com/profile_projects/harisonnagisvaran?Popup=memberProject&Data=1716801954223x263470755400352350)   
 **Description:** This dataset involve sales transactions for a fictious company for 2 years.
 **Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.      
-**Technology:** SQL Server, PowerBI
-**Results:** 
+**Technology:** SQL Server, PowerBI  
+**Results:**     
 1. Build a Database using SQL Server
 2. Develop SQL queries 
 3. Connect Power BI to SQL Server
