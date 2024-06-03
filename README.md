@@ -39,7 +39,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Customers and Products Analysis Using SQL](#learning-sql)
 	+ [Northwind Traders](#north-wind)
 	+ [Building a BI App](#Dataquest-performance)
-	+ [Google Python Class](#google-python-class)
+	+ [Kaggle API](#kaggle-api)
 	+ [Side Projects](#side-projects)
 	+ [Tableau Vizzes](#tableau-vizzes)
 - [Education](#education)
@@ -183,9 +183,18 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** This dataset explores the dataquest's course information.This project has three data tables, stored as CSVs.
 **Skills:** data cleaning, data modelling, data visualization   
 **Technology:** PowerBI 
-**Results:**  importing data in Power BI and building out the data model. Then I create series of analyses and visualizations on course completion rates and course ratings. Based on these analyses, I will make a recommendation for which courses should be improved. 	      Lastly, I published the report to a Power BI app.
+**Results:**  importing data in Power BI and building out the data model. Then I create series of analyses and visualizations on course completion rates and course ratings. Based on these analyses, I will make a recommendation for which courses should be improved. Lastly, I published the report to a Power BI app.
 
+###  Kaggle API Retail Orders
+**Code:**: (https://github.com/Julia104/portfolioproj/blob/main/Retail%20orders%20(1).ipynb)  
+**Dataset:** (https://www.kaggle.com/datasets/ankitbansal06/retail-orders)  
+**Description:** Clean and analyze global mart sales data using Python
+**Skills:** data cleaning, data transformation, MS SQL queries 
+**Technology:** Python, MS SQL, Pandas
+**Results:** First, I use kaggle api to download data using python. Then I did data cleaning , transformations and data preprocessing using pandas
+Then, I loaded data into SQL server using python (sqlalchemy)
 
+4- Then answering some interesting questions on the dataset using SQL.  
 
 
 ## Certificates
