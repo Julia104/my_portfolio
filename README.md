@@ -202,9 +202,9 @@ Then, I loaded data into SQL server using python (sqlalchemy). Finally, answerin
 **Results:** Using the PostgreSQL window functions on the Northwind database, I will provide  essential insights to management, contributing significantly to the company's strategic decisions.   
 
 ###  Nashville Housing Data
-**Queries:**: (https://github.com/Julia104/portfolioproj/blob/main/Datacleaning_SQL.sql)
+**Queries:**: (https://github.com/Julia104/portfolioproj/blob/main/Datacleaning_SQL.sql)  
 **Dataset**: https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data  
-**Description:** Housing data from Nashville , US 
+**Description:** This is home value data for the hot Nashville market. There are 56,000+ rows altogether.     
 **Skills:** Data cleaning 
 **Technology:** SQL Server  
 **Results:** Using the SQL Server, I performed several queries to clean the original data. This includes splitting of column, conversion of date format, removing duplicate rows etc
