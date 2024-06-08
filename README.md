@@ -202,7 +202,8 @@ Then, I loaded data into SQL server using python (sqlalchemy). Finally, answerin
 **Results:** Using the PostgreSQL window functions on the Northwind database, I will provide  essential insights to management, contributing significantly to the company's strategic decisions.   
 
 ###  Nashville Housing Data
-**Queries:**: (https://github.com/Julia104/portfolioproj/blob/main/Datacleaning_SQL.sql)    
+**Queries:**: (https://github.com/Julia104/portfolioproj/blob/main/Datacleaning_SQL.sql)
+**Dataset**: https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data  
 **Description:** Housing data from Nashville , US 
 **Skills:** Data cleaning 
 **Technology:** SQL Server  
