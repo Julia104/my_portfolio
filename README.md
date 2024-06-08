@@ -40,7 +40,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Northwind Traders](#north-wind)
 	+ [Building a BI App](#Dataquest-performance)
 	+ [Kaggle API](#kaggle-api)
-	+ [Side Projects](#side-projects)
+	+ [Nashville Housing Data](#nashville)
 	+ [Tableau Vizzes](#tableau-vizzes)
 - [Education](#education)
 - [Certificates](#certificates)
@@ -192,9 +192,23 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** data cleaning, data transformation, MS SQL queries 
 **Technology:** Python, MS SQL, Pandas
 **Results:** First, I use kaggle api to download data using python. Then I did data cleaning , transformations and data preprocessing using pandas
-Then, I loaded data into SQL server using python (sqlalchemy)
+Then, I loaded data into SQL server using python (sqlalchemy). Finally, answering some interesting questions on the dataset using SQL.  
 
-4- Then answering some interesting questions on the dataset using SQL.  
+###  Northwind Traders
+**Queries:**: (https://github.com/Julia104/portfolioproj/blob/main/northwinds%20proj%20(1).ipynb)    
+**Description:** Northwind Traders are an international gourmet food distributor. Management is looking for insights to make strategic decisions in several aspects of the business.  
+**Skills:** PostgreSQL, pgAdmin4, Windows & CTE usage   
+**Technology:** PostgreSQL via pgAmin4 ( Pivotables,variance and trend analysis tools,What-If Analysis tools,VLOOKUP())    
+**Results:** Using the PostgreSQL window functions on the Northwind database, I will provide  essential insights to management, contributing significantly to the company's strategic decisions.   
+
+###  Nashville Housing Data
+**Queries:**: (https://github.com/Julia104/portfolioproj/blob/main/Datacleaning_SQL.sql)    
+**Description:** Housing data from Nashville , US 
+**Skills:** Data cleaning 
+**Technology:** SQL Server  
+**Results:** Using the SQL Server, I performed several queries to clean the original data. This includes splitting of column, conversion of date format, removing duplicate rows etc
+
+
 
 
 ## Certificates
