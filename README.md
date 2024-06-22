@@ -61,6 +61,13 @@ In this section I will list data analytics projects briefly describing the techn
 4.  Build a Dashboard 
 5.  Make Analysis Recommendations
 
+### Sales Performance Dashboard for 2024
+**Dashboard**: (https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FJulia104%2Fportfolioproj%2Fmain%2Fdata_visualization_in_excel.xlsx&wdOrigin=BROWSELINK)    
+**Description:** This dataset involve sales transactions for a fictious company for a year.  
+**Skills:** data cleaning, data analysis,  data visualization.        
+**Technology:** Excel   
+**Results:**: Built a dashboard showcasing the difference visuals  
+
 ### Wikipedia Helicopter Prison Break 
 **Code:** (https://github.com/Julia104/portfolioproj/blob/main/Wikipedia_PrisonEscape.ipynb)      
 **Dataset:** (https://en.wikipedia.org/wiki/List_of_helicopter_prison_escapes#Actual_attempts)  
