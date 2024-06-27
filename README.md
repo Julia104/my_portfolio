@@ -7,7 +7,7 @@ G'day, I am Harison :smile:
 I am an aspiring data/BI analyst.
 
 
-My CV (https://github.com/Julia104/portfolioproj/blob/main/CV.pdf)
+My CV (https://github.com/Julia104/portfolioproj/blob/main/resumev8.5.pdf)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -51,12 +51,12 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ### Shipment Order Analysis Project
-**Code**: (https://github.com/Julia104/portfolioproj/blob/main/Data%20Analytics%20Project.ipynb)
-**Dataset**: (https://www.kaggle.com/datasets/akshatagrawal9431/shipment-orders-dataset/data)      
-**Description:** This dataset involve shipment orders for a US company for 2 years.  
-**Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.        
-**Technology:** SQL Server, Pandas, Numpy, Sqlalchemy, pyodbc   
-**Results:**     
+**Code**: (https://github.com/Julia104/portfolioproj/blob/main/Data%20Analytics%20Project.ipynb)  
+**Dataset**: (https://www.kaggle.com/datasets/akshatagrawal9431/shipment-orders-dataset/data)       
+**Description:** This dataset involve shipment orders for a US company for 2 years.    
+**Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.          
+**Technology:** SQL Server, Pandas, Numpy, Sqlalchemy, pyodbc     
+**Results:**       
 1. Load data from Kaggle API  
 2. Load data into Jupyter Notebook  
 3. Use Pandas to clean and analyze data  
