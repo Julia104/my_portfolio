@@ -49,6 +49,24 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+
+### Shipment Order Analysis Project
+**Code**: (https://github.com/Julia104/portfolioproj/blob/main/Data%20Analytics%20Project.ipynb)
+**Dataset**: (https://www.kaggle.com/datasets/akshatagrawal9431/shipment-orders-dataset/data)      
+**Description:** This dataset involve shipment orders for a US company for 2 years.  
+**Skills:** data cleaning, data analysis, descriptive statistics,  data visualization.        
+**Technology:** SQL Server, Pandas, Numpy, Sqlalchemy, pyodbc   
+**Results:**     
+1. Load data from Kaggle API  
+2. Load data into Jupyter Notebook  
+3. Use Pandas to clean and analyze data  
+4. Create a connection to MSSQL  
+5. Create a connection from MSSQL to Jupyter Notebook
+6. Answer 15 questions for analysis
+
+
+
+
 ### Ballarat Bike Shop
 **Dashboard**: (https://www.novypro.com/profile_projects/harisonnagisvaran?Popup=memberProject&Data=1716801954223x263470755400352350)   
 **Description:** This dataset involve sales transactions for a fictious company for 2 years.
