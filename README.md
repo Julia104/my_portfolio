@@ -49,6 +49,26 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+### Customer Churn Analysis Project
+**Dashboard**: (https://www.novypro.com/profile_projects/harisonnagisvaran?Popup=memberProject&Data=1722125832004x377720334083409660)    
+**Dataset**: (https://github.com/Julia104/portfolioproj/blob/main/Customer_Data.csv)         
+**Description:** This dataset involve customer data from a telecommunications company in India.    
+**Skills:** data cleaning, data analysis, ETL, data visualization.            
+**Technology:** MS SQL Server, SSMS, PowerBI    
+**Results:**         
+Project Goal: Create an ETL process in a MSSQL database and a PowerBI dashboard to analyze Telecom Customer data.
+
+Analyze Customer data at various levels:
+a. Demographic
+b. Geographic
+c. Payment and Account info
+d. Services
+
+Study Churn profiles and identify opportunities for marketing campaigns
+
+
+
+
 
 ### Shipment Order Analysis Project
 **Code**: (https://github.com/Julia104/portfolioproj/blob/main/Data%20Analytics%20Project.ipynb)  
