@@ -57,13 +57,11 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** MS SQL Server, SSMS, PowerBI    
 **Results:**         
 Project Goal: Create an ETL process in a MSSQL database and a PowerBI dashboard to analyze Telecom Customer data.
-
 Analyze Customer data at various levels:
 a. Demographic
 b. Geographic
 c. Payment and Account info
 d. Services
-
 Study Churn profiles and identify opportunities for marketing campaigns
 
 
