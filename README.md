@@ -49,7 +49,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-####  Supermarket Transaction Analysis in SQL  
+### Supermarket Transaction Analysis in SQL  
 **Code:** (https://github.com/Julia104/portfolioproj/blob/main/notebook.ipynb)     
 **Description:** I will use SQL to analyze transaction data from a Polish Supermarket  
 **Skills:** SQL   
