@@ -49,11 +49,20 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+
+
+### Analyzing Survey Data with SQL & Python 
+**Code:** (https://github.com/Julia104/portfolioproj/blob/main/notebook.ipynb)       
+**Description:** This project analyses data from a survey about the growth of Finnish companies. The data reports the perceptions of top managers on growth, innovativeness, and the ability for renewal.  
+**Skills:** SQL     
+**Technology:** duckdb, Plotly, Scipy       
+
+
 ### Supermarket Transaction Analysis in SQL  
-**Code:** (https://github.com/Julia104/portfolioproj/blob/main/notebook.ipynb)     
+**Code:** (https://github.com/Julia104/portfolioproj/blob/main/supermarket.ipynb)     
 **Description:** I will use SQL to analyze transaction data from a Polish Supermarket  
 **Skills:** SQL   
-**Technology:** SQLite   
+**Technology:** duckDB, PostgreSQL   
 
 
 
