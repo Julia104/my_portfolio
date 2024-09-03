@@ -49,6 +49,11 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+### Analyzing Olympics Data with SQL & Python 
+**Code:** (https://github.com/Julia104/portfolioproj/blob/main/olympics.ipynb)       
+**Description:** This project analyses data from the Olympics. The data will find the total medal tally, choloropeth visual of the medal count around the world.
+**Skills:** SQL & Python     
+**Technology:** duckdb, Plotly, MariaDB, Pandas      
 
 
 ### Analyzing Survey Data with SQL & Python 
